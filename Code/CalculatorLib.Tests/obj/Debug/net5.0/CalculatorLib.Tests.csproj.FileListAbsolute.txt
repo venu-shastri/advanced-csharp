@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Code\CalculatorLib.Tests\bin\Debug\net5.0\CalculatorLib.Tests.deps.json
+C:\Users\user\source\repos\Code\CalculatorLib.Tests\bin\Debug\net5.0\CalculatorLib.Tests.dll
+C:\Users\user\source\repos\Code\CalculatorLib.Tests\bin\Debug\net5.0\ref\CalculatorLib.Tests.dll
+C:\Users\user\source\repos\Code\CalculatorLib.Tests\bin\Debug\net5.0\CalculatorLib.Tests.pdb
+C:\Users\user\source\repos\Code\CalculatorLib.Tests\obj\Debug\net5.0\CalculatorLib.Tests.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Code\CalculatorLib.Tests\obj\Debug\net5.0\CalculatorLib.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Code\CalculatorLib.Tests\obj\Debug\net5.0\CalculatorLib.Tests.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Code\CalculatorLib.Tests\obj\Debug\net5.0\CalculatorLib.Tests.AssemblyInfo.cs
+C:\Users\user\source\repos\Code\CalculatorLib.Tests\obj\Debug\net5.0\CalculatorLib.Tests.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Code\CalculatorLib.Tests\obj\Debug\net5.0\CalculatorLib.Tests.dll
+C:\Users\user\source\repos\Code\CalculatorLib.Tests\obj\Debug\net5.0\ref\CalculatorLib.Tests.dll
+C:\Users\user\source\repos\Code\CalculatorLib.Tests\obj\Debug\net5.0\CalculatorLib.Tests.pdb
+C:\Users\user\source\repos\Code\CalculatorLib.Tests\bin\Debug\net5.0\PicTestLib.dll
+C:\Users\user\source\repos\Code\CalculatorLib.Tests\bin\Debug\net5.0\PicTestLib.pdb
+C:\Users\user\source\repos\Code\CalculatorLib.Tests\obj\Debug\net5.0\CalculatorLib.Tests.csproj.CopyComplete

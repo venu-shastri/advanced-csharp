@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PicTestRunner/1.0.0": {
+        "dependencies": {
+          "PicTestLib": "1.0.0"
+        },
+        "runtime": {
+          "PicTestRunner.dll": {}
+        }
+      },
+      "PicTestLib/1.0.0": {
+        "runtime": {
+          "PicTestLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PicTestRunner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PicTestLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CalculatorLib.Tests/1.0.0": {
+        "dependencies": {
+          "PicTestLib": "1.0.0"
+        },
+        "runtime": {
+          "CalculatorLib.Tests.dll": {}
+        }
+      },
+      "PicTestLib/1.0.0": {
+        "runtime": {
+          "PicTestLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculatorLib.Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PicTestLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

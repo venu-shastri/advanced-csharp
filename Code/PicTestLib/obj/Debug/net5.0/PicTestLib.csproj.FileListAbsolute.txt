@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Code\PicTestLib\bin\Debug\net5.0\PicTestLib.deps.json
+C:\Users\user\source\repos\Code\PicTestLib\bin\Debug\net5.0\PicTestLib.dll
+C:\Users\user\source\repos\Code\PicTestLib\bin\Debug\net5.0\ref\PicTestLib.dll
+C:\Users\user\source\repos\Code\PicTestLib\bin\Debug\net5.0\PicTestLib.pdb
+C:\Users\user\source\repos\Code\PicTestLib\obj\Debug\net5.0\PicTestLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Code\PicTestLib\obj\Debug\net5.0\PicTestLib.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Code\PicTestLib\obj\Debug\net5.0\PicTestLib.AssemblyInfo.cs
+C:\Users\user\source\repos\Code\PicTestLib\obj\Debug\net5.0\PicTestLib.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Code\PicTestLib\obj\Debug\net5.0\PicTestLib.dll
+C:\Users\user\source\repos\Code\PicTestLib\obj\Debug\net5.0\ref\PicTestLib.dll
+C:\Users\user\source\repos\Code\PicTestLib\obj\Debug\net5.0\PicTestLib.pdb
