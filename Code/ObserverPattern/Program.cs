@@ -5,12 +5,13 @@ namespace ObserverPattern
 {
     public enum OrderState
     {
-        CRETAED,CONFIRMED,CANCELLED,COMPLETED
+        CRETAED,CONFIRMED,CANCELLED,CLOSED
     }
     
     public   class Order
     {
        public event Action<string> OrderStateChanged;//event
+        // OrderClosed - Event
         string orderId;
         OrderState currentState;
         public Order()
@@ -44,6 +45,10 @@ namespace ObserverPattern
 
     }
 
+    public class AuditSystem
+    {
+
+    }
     public class EmailNotifificationSystem
     {
         public void SendMail(string evtData) { Console.WriteLine($"Email Sent  {evtData}"); }
@@ -76,7 +81,7 @@ namespace ObserverPattern
             System.Threading.Tasks.Task.Delay(3000).Wait();
             _order1.ChangeState(OrderState.CONFIRMED);
             System.Threading.Tasks.Task.Delay(5000).Wait();
-            _order1.ChangeState(OrderState.COMPLETED);
+            _order1.ChangeState(OrderState.CLOSED);
         }
     }
 }
