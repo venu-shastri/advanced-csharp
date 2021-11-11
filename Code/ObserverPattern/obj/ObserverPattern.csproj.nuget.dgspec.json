@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\AdvC#\\advanced-csharp\\Code\\Code\\Code.csproj": {}
+    "E:\\AdvC#\\advanced-csharp\\Code\\ObserverPattern\\ObserverPattern.csproj": {}
   },
   "projects": {
-    "E:\\AdvC#\\advanced-csharp\\Code\\Code\\Code.csproj": {
+    "E:\\AdvC#\\advanced-csharp\\Code\\ObserverPattern\\ObserverPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AdvC#\\advanced-csharp\\Code\\Code\\Code.csproj",
-        "projectName": "Code",
-        "projectPath": "E:\\AdvC#\\advanced-csharp\\Code\\Code\\Code.csproj",
+        "projectUniqueName": "E:\\AdvC#\\advanced-csharp\\Code\\ObserverPattern\\ObserverPattern.csproj",
+        "projectName": "ObserverPattern",
+        "projectPath": "E:\\AdvC#\\advanced-csharp\\Code\\ObserverPattern\\ObserverPattern.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\AdvC#\\advanced-csharp\\Code\\Code\\obj\\",
+        "outputPath": "E:\\AdvC#\\advanced-csharp\\Code\\ObserverPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "PicTestLib/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/PicTestLib.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/PicTestLib.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "PicTestLib/1.0.0": {
-      "type": "project",
-      "path": "../PicTestLib/PicTestLib.csproj",
-      "msbuildProject": "../PicTestLib/PicTestLib.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "PicTestLib >= 1.0.0"
-    ]
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\user\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AdvC#\\advanced-csharp\\Code\\PicTestRunner\\PicTestRunner.csproj",
-      "projectName": "PicTestRunner",
-      "projectPath": "E:\\AdvC#\\advanced-csharp\\Code\\PicTestRunner\\PicTestRunner.csproj",
+      "projectUniqueName": "E:\\AdvC#\\advanced-csharp\\Code\\ObserverPattern\\ObserverPattern.csproj",
+      "projectName": "ObserverPattern",
+      "projectPath": "E:\\AdvC#\\advanced-csharp\\Code\\ObserverPattern\\ObserverPattern.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\AdvC#\\advanced-csharp\\Code\\PicTestRunner\\obj\\",
+      "outputPath": "E:\\AdvC#\\advanced-csharp\\Code\\ObserverPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "E:\\AdvC#\\advanced-csharp\\Code\\PicTestLib\\PicTestLib.csproj": {
-              "projectPath": "E:\\AdvC#\\advanced-csharp\\Code\\PicTestLib\\PicTestLib.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

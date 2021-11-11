@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\Code\\PicTestLib\\PicTestLib.csproj": {}
+    "E:\\AdvC#\\advanced-csharp\\Code\\PicTestLib\\PicTestLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\Code\\PicTestLib\\PicTestLib.csproj": {
+    "E:\\AdvC#\\advanced-csharp\\Code\\PicTestLib\\PicTestLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Code\\PicTestLib\\PicTestLib.csproj",
+        "projectUniqueName": "E:\\AdvC#\\advanced-csharp\\Code\\PicTestLib\\PicTestLib.csproj",
         "projectName": "PicTestLib",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Code\\PicTestLib\\PicTestLib.csproj",
+        "projectPath": "E:\\AdvC#\\advanced-csharp\\Code\\PicTestLib\\PicTestLib.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Code\\PicTestLib\\obj\\",
+        "outputPath": "E:\\AdvC#\\advanced-csharp\\Code\\PicTestLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

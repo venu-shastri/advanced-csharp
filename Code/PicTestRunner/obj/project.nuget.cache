@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9ZgN869GKWcfmr7EaudrIbQ7aKU+2sCG6aiSA++Cw3rbIAhKYExjzR28QH0EYcz1mq2Tz5e2fCI6b+M4RugbfA==",
+  "dgSpecHash": "Ud5ijT0wTrP716jr8xv8yryEDL8YYysz87XmZo2N7UQpF63k2nwz9MCqtgZlRvcAtU4yskshKZH85PfZkpyw6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\Code\\PicTestRunner\\PicTestRunner.csproj",
+  "projectFilePath": "E:\\AdvC#\\advanced-csharp\\Code\\PicTestRunner\\PicTestRunner.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
