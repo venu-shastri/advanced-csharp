@@ -67,7 +67,7 @@ namespace ObserverPattern
             Action<string> _smsObserver = new Action<string>(_smsSystem.SendSMS);
 
             Order _order1 = new Order();
-            _order1.OrderStateChanged += _emailObserver;
+            _order1.OrderStateChanged += _emailObserver;// Add_OrderStateChanged(_emailObserver)
             _order1.OrderStateChanged += _smsObserver;
 
             _order1.ChangeState(OrderState.CONFIRMED);
