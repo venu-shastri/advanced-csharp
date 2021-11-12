@@ -1,0 +1,16 @@
+E:\AdvC#\advanced-csharp\Code\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+E:\AdvC#\advanced-csharp\Code\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\AdvC#\advanced-csharp\Code\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\AdvC#\advanced-csharp\Code\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+E:\AdvC#\advanced-csharp\Code\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\AdvC#\advanced-csharp\Code\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+E:\AdvC#\advanced-csharp\Code\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+E:\AdvC#\advanced-csharp\Code\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+E:\AdvC#\advanced-csharp\Code\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+E:\AdvC#\advanced-csharp\Code\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+E:\AdvC#\advanced-csharp\Code\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+E:\AdvC#\advanced-csharp\Code\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+E:\AdvC#\advanced-csharp\Code\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+E:\AdvC#\advanced-csharp\Code\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+E:\AdvC#\advanced-csharp\Code\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+E:\AdvC#\advanced-csharp\Code\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
