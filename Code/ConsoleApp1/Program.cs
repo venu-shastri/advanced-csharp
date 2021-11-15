@@ -6,7 +6,9 @@ namespace ConsoleApp1
     
     public class DBWriter
     {
+        //public void Insert(DBWriter this){}
         public void Insert() {
+            Console.WriteLine("Insert Started...");
             Monitor.Enter(this);
             for (int i = 0; i < 5; i++)
             {
@@ -14,9 +16,12 @@ namespace ConsoleApp1
                 System.Threading.Thread.Sleep(1000);
             }
             Monitor.Exit(this);
+            Console.WriteLine("Insert End...");
         }
     
         public void Update() {
+            //public void Update(DBWriter this){}
+            Console.WriteLine("Update Started...");
             Monitor.Enter(this);
             for (int i = 0; i < 5; i++)
             {
@@ -24,9 +29,12 @@ namespace ConsoleApp1
                 System.Threading.Thread.Sleep(1000);
             }
             Monitor.Exit(this);
+            Console.WriteLine("Update End...");
 
         }
+        //public void Delete(DBWriter this){}
         public void Delete() {
+            Console.WriteLine("Delete Started...");
             Monitor.Enter(this);
             for (int i = 0; i < 5; i++)
             {
@@ -34,7 +42,17 @@ namespace ConsoleApp1
                 System.Threading.Thread.Sleep(1000);
             }
             Monitor.Exit(this);
-
+            Console.WriteLine("Delete End...");
+        }
+        public void Log()
+        {
+            
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine($"Logging  Operation...-Thread Id {System.Threading.Thread.CurrentThread.ManagedThreadId}");
+                System.Threading.Thread.Sleep(1000);
+            }
+            
         }
 
     }
@@ -65,6 +83,8 @@ namespace ConsoleApp1
             new System.Threading.Thread(new ThreadStart(_dbWriterRef.Insert)).Start() ;
             new System.Threading.Thread(new ThreadStart(_dbWriterRef.Update)).Start();
             new System.Threading.Thread(new ThreadStart(_dbWriterRef.Delete)).Start();
+            new System.Threading.Thread(new ThreadStart(_dbWriterRef.Log)).Start();
+            new System.Threading.Thread(new ThreadStart(_dbWriterRef.Log)).Start();
         }
         static void SendSms() { 
         
