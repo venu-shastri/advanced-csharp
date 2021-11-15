@@ -51,12 +51,18 @@ namespace ObserverPattern
     }
     public class EmailNotifificationSystem
     {
-        public void SendMail(string evtData) { Console.WriteLine($"Email Sent  {evtData}"); }
+        public void SendMail(string evtData) {
+           
+            Console.WriteLine($"Email Sent  {evtData}");
+            System.Threading.Thread.Sleep(2000);
+
+        }
     }
     public class SMSNotificationSystem
     {
         public void SendSMS(string evtData) {
             Console.WriteLine($"SMS Sent  {evtData}");
+            System.Threading.Thread.Sleep(2000);
         }
     }
 
