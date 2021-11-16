@@ -1,0 +1,16 @@
+E:\AdvC#\advanced-csharp\Code\ASynchronousProgram\bin\Debug\net5.0\ASynchronousProgram.exe
+E:\AdvC#\advanced-csharp\Code\ASynchronousProgram\bin\Debug\net5.0\ASynchronousProgram.deps.json
+E:\AdvC#\advanced-csharp\Code\ASynchronousProgram\bin\Debug\net5.0\ASynchronousProgram.runtimeconfig.json
+E:\AdvC#\advanced-csharp\Code\ASynchronousProgram\bin\Debug\net5.0\ASynchronousProgram.runtimeconfig.dev.json
+E:\AdvC#\advanced-csharp\Code\ASynchronousProgram\bin\Debug\net5.0\ASynchronousProgram.dll
+E:\AdvC#\advanced-csharp\Code\ASynchronousProgram\bin\Debug\net5.0\ref\ASynchronousProgram.dll
+E:\AdvC#\advanced-csharp\Code\ASynchronousProgram\bin\Debug\net5.0\ASynchronousProgram.pdb
+E:\AdvC#\advanced-csharp\Code\ASynchronousProgram\obj\Debug\net5.0\ASynchronousProgram.GeneratedMSBuildEditorConfig.editorconfig
+E:\AdvC#\advanced-csharp\Code\ASynchronousProgram\obj\Debug\net5.0\ASynchronousProgram.AssemblyInfoInputs.cache
+E:\AdvC#\advanced-csharp\Code\ASynchronousProgram\obj\Debug\net5.0\ASynchronousProgram.AssemblyInfo.cs
+E:\AdvC#\advanced-csharp\Code\ASynchronousProgram\obj\Debug\net5.0\ASynchronousProgram.csproj.CoreCompileInputs.cache
+E:\AdvC#\advanced-csharp\Code\ASynchronousProgram\obj\Debug\net5.0\ASynchronousProgram.dll
+E:\AdvC#\advanced-csharp\Code\ASynchronousProgram\obj\Debug\net5.0\ref\ASynchronousProgram.dll
+E:\AdvC#\advanced-csharp\Code\ASynchronousProgram\obj\Debug\net5.0\ASynchronousProgram.pdb
+E:\AdvC#\advanced-csharp\Code\ASynchronousProgram\obj\Debug\net5.0\ASynchronousProgram.genruntimeconfig.cache
+E:\AdvC#\advanced-csharp\Code\ASynchronousProgram\obj\Debug\net5.0\ASynchronousProgram.csproj.AssemblyReference.cache

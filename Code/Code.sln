@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "Observer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{8D0544C7-9B43-4690-BFF7-04FCEE0FB56E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASynchronousProgram", "ASynchronousProgram\ASynchronousProgram.csproj", "{79DA63C1-162A-4737-BCA7-436207F5709B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{8D0544C7-9B43-4690-BFF7-04FCEE0FB56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D0544C7-9B43-4690-BFF7-04FCEE0FB56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D0544C7-9B43-4690-BFF7-04FCEE0FB56E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79DA63C1-162A-4737-BCA7-436207F5709B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79DA63C1-162A-4737-BCA7-436207F5709B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79DA63C1-162A-4737-BCA7-436207F5709B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79DA63C1-162A-4737-BCA7-436207F5709B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
