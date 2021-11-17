@@ -1,0 +1,16 @@
+E:\AdvC#\advanced-csharp\Code\ResourceMgmt\bin\Debug\net5.0\ResourceMgmt.exe
+E:\AdvC#\advanced-csharp\Code\ResourceMgmt\bin\Debug\net5.0\ResourceMgmt.deps.json
+E:\AdvC#\advanced-csharp\Code\ResourceMgmt\bin\Debug\net5.0\ResourceMgmt.runtimeconfig.json
+E:\AdvC#\advanced-csharp\Code\ResourceMgmt\bin\Debug\net5.0\ResourceMgmt.runtimeconfig.dev.json
+E:\AdvC#\advanced-csharp\Code\ResourceMgmt\bin\Debug\net5.0\ResourceMgmt.dll
+E:\AdvC#\advanced-csharp\Code\ResourceMgmt\bin\Debug\net5.0\ref\ResourceMgmt.dll
+E:\AdvC#\advanced-csharp\Code\ResourceMgmt\bin\Debug\net5.0\ResourceMgmt.pdb
+E:\AdvC#\advanced-csharp\Code\ResourceMgmt\obj\Debug\net5.0\ResourceMgmt.csproj.AssemblyReference.cache
+E:\AdvC#\advanced-csharp\Code\ResourceMgmt\obj\Debug\net5.0\ResourceMgmt.GeneratedMSBuildEditorConfig.editorconfig
+E:\AdvC#\advanced-csharp\Code\ResourceMgmt\obj\Debug\net5.0\ResourceMgmt.AssemblyInfoInputs.cache
+E:\AdvC#\advanced-csharp\Code\ResourceMgmt\obj\Debug\net5.0\ResourceMgmt.AssemblyInfo.cs
+E:\AdvC#\advanced-csharp\Code\ResourceMgmt\obj\Debug\net5.0\ResourceMgmt.csproj.CoreCompileInputs.cache
+E:\AdvC#\advanced-csharp\Code\ResourceMgmt\obj\Debug\net5.0\ResourceMgmt.dll
+E:\AdvC#\advanced-csharp\Code\ResourceMgmt\obj\Debug\net5.0\ref\ResourceMgmt.dll
+E:\AdvC#\advanced-csharp\Code\ResourceMgmt\obj\Debug\net5.0\ResourceMgmt.pdb
+E:\AdvC#\advanced-csharp\Code\ResourceMgmt\obj\Debug\net5.0\ResourceMgmt.genruntimeconfig.cache

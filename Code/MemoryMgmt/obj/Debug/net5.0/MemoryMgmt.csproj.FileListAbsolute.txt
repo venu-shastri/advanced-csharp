@@ -1,0 +1,16 @@
+E:\AdvC#\advanced-csharp\Code\MemoryMgmt\bin\Debug\net5.0\MemoryMgmt.exe
+E:\AdvC#\advanced-csharp\Code\MemoryMgmt\bin\Debug\net5.0\MemoryMgmt.deps.json
+E:\AdvC#\advanced-csharp\Code\MemoryMgmt\bin\Debug\net5.0\MemoryMgmt.runtimeconfig.json
+E:\AdvC#\advanced-csharp\Code\MemoryMgmt\bin\Debug\net5.0\MemoryMgmt.runtimeconfig.dev.json
+E:\AdvC#\advanced-csharp\Code\MemoryMgmt\bin\Debug\net5.0\MemoryMgmt.dll
+E:\AdvC#\advanced-csharp\Code\MemoryMgmt\bin\Debug\net5.0\ref\MemoryMgmt.dll
+E:\AdvC#\advanced-csharp\Code\MemoryMgmt\bin\Debug\net5.0\MemoryMgmt.pdb
+E:\AdvC#\advanced-csharp\Code\MemoryMgmt\obj\Debug\net5.0\MemoryMgmt.csproj.AssemblyReference.cache
+E:\AdvC#\advanced-csharp\Code\MemoryMgmt\obj\Debug\net5.0\MemoryMgmt.GeneratedMSBuildEditorConfig.editorconfig
+E:\AdvC#\advanced-csharp\Code\MemoryMgmt\obj\Debug\net5.0\MemoryMgmt.AssemblyInfoInputs.cache
+E:\AdvC#\advanced-csharp\Code\MemoryMgmt\obj\Debug\net5.0\MemoryMgmt.AssemblyInfo.cs
+E:\AdvC#\advanced-csharp\Code\MemoryMgmt\obj\Debug\net5.0\MemoryMgmt.csproj.CoreCompileInputs.cache
+E:\AdvC#\advanced-csharp\Code\MemoryMgmt\obj\Debug\net5.0\MemoryMgmt.dll
+E:\AdvC#\advanced-csharp\Code\MemoryMgmt\obj\Debug\net5.0\ref\MemoryMgmt.dll
+E:\AdvC#\advanced-csharp\Code\MemoryMgmt\obj\Debug\net5.0\MemoryMgmt.pdb
+E:\AdvC#\advanced-csharp\Code\MemoryMgmt\obj\Debug\net5.0\MemoryMgmt.genruntimeconfig.cache

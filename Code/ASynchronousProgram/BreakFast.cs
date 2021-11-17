@@ -9,7 +9,7 @@ namespace ASynchronousProgram
    
         class Program
         {
-            static void Main(string[] args)
+            static void Main_Breakfast(string[] args)
             {
           
             //PrepareBreakFastSynchronously();
