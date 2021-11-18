@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryMgmt", "MemoryMgmt\Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceMgmt", "ResourceMgmt\ResourceMgmt.csproj", "{4ED1EE3C-89D5-486F-84AB-56C094247B64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{810467A8-D20B-4226-9187-366675EC7076}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{4ED1EE3C-89D5-486F-84AB-56C094247B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4ED1EE3C-89D5-486F-84AB-56C094247B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4ED1EE3C-89D5-486F-84AB-56C094247B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{810467A8-D20B-4226-9187-366675EC7076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{810467A8-D20B-4226-9187-366675EC7076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{810467A8-D20B-4226-9187-366675EC7076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{810467A8-D20B-4226-9187-366675EC7076}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
