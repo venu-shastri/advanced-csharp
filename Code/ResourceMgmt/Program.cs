@@ -31,7 +31,8 @@ namespace ResourceMgmt
 
     public class ResourceWrapper:IDisposable
     {
-        
+        private bool disposedValue;
+
         public ResourceWrapper()
         {
             lock (Signals.ResourceAvailablityHandle)
@@ -55,15 +56,48 @@ namespace ResourceMgmt
         }
         public void Operation()
         {
+            if (disposedValue)
+            {
+                throw new ObjectDisposedException("ResourceWrapper");
+            }
             Resource.Instance.UseResource();
         }
+
+        protected virtual void Dispose(bool disposing)
+        {
+            if (!disposedValue)
+            {
+                if (disposing)
+                {
+                    // TODO: dispose managed state (managed objects)
+                    Console.WriteLine($"Resouce Released Using Dispose Method , By {System.Threading.Thread.CurrentThread.ManagedThreadId}");
+                }
+                
+                // TODO: free unmanaged resources (unmanaged objects) and override finalizer
+                // TODO: set large fields to null
+                Resource.Instance.IsBusy = false;
+                Signals.ResourceAvailablityHandle.Set();
+
+                disposedValue = true;
+            }
+        }
+
+        // // TODO: override finalizer only if 'Dispose(bool disposing)' has code to free unmanaged resources
+         ~ResourceWrapper()
+         {
+        //     // Do not change this code. Put cleanup code in 'Dispose(bool disposing)' method
+
+            Dispose(disposing: false);
+            Console.WriteLine($"Resouce Released Using Finalize Method , By {System.Threading.Thread.CurrentThread.ManagedThreadId}");
+        }
+
         public void Dispose()
         {
-            Resource.Instance.IsBusy = false;
-            Signals.ResourceAvailablityHandle.Set();
-            Console.WriteLine($"Resouce Released By {System.Threading.Thread.CurrentThread.ManagedThreadId}");
-            
+            // Do not change this code. Put cleanup code in 'Dispose(bool disposing)' method
+            Dispose(disposing: true);
+            GC.SuppressFinalize(this);
         }
+     
 
     }
     class Program
@@ -72,6 +106,11 @@ namespace ResourceMgmt
         {
             new System.Threading.Thread(Client1).Start();
             new System.Threading.Thread(Client1).Start();
+            while (true)
+            {
+                GC.Collect();
+                System.Threading.Thread.Sleep(3000);
+            }
         }
 
         static void Client11()
@@ -100,7 +139,7 @@ namespace ResourceMgmt
 
         }
 
-        static void Client1()
+        static void Client111()
         {
             ResourceWrapper _rw = new ResourceWrapper();
             try
@@ -119,6 +158,29 @@ namespace ResourceMgmt
             
             
             _rw.Operation();//Restrict
+        }
+
+        static void Client1()
+        {
+            ResourceWrapper _rw = new ResourceWrapper();
+            try
+            {
+                _rw.Operation();
+              //  _rw.Dispose();
+               // _rw.Operation();
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+               // _rw.Dispose();
+            }
+            finally
+            {
+              //  _rw.Dispose();
+            }
+            _rw = null;
+          
+
         }
     }
 }
